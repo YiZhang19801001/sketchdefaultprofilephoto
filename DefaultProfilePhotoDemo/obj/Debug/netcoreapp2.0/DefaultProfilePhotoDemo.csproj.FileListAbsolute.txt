@@ -1,0 +1,11 @@
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\bin\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.deps.json
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\bin\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.runtimeconfig.json
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\bin\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.runtimeconfig.dev.json
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\bin\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.dll
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.csprojResolveAssemblyReference.cache
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.csproj.CoreCompileInputs.cache
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.AssemblyInfoInputs.cache
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.AssemblyInfo.cs
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\bin\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.pdb
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.dll
+C:\Users\roben\source\repos\DefaultProfilePhotoDemo\DefaultProfilePhotoDemo\obj\Debug\netcoreapp2.0\DefaultProfilePhotoDemo.pdb
